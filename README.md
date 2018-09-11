@@ -16,3 +16,8 @@ Look in the cmd folder
 GOOS=darwin GOARCH=amd64 go build -o trafficlight ./cmd/main.go
 GOOS=windows GOARCH=amd64 go build -o trafficlight.exe ./cmd/main.go
 ```
+## Notice on Traffic Light Portal data reliance
+
+Please contact the Euler Hermes Traffic Light Portal Sandbox team directly for verification of data accuracy should you wish to make use of their service. 
+
+Meanwhile, make comments, share feedback and best of luck! 
